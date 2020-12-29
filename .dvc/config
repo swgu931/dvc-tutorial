@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = gs://dvc-tutorial-20201229/dvc-tutorial
