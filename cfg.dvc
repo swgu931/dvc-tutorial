@@ -1,0 +1,5 @@
+outs:
+- md5: 3f8eb4ae060cb318e3a51ffcbbe30f5e.dir
+  size: 182242
+  nfiles: 52
+  path: cfg
