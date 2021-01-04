@@ -1,6 +1,4 @@
 [core]
-    remote = origin
-['remote "origin"']
-    url = gs://dvc-tutorial-20201229/dvc-tutorial
-['remote "dvc-origin"']
-    url = gs://dvc-tutorial-20201229/dvc-tutorial
+    remote = myremote
+['remote "myremote"']
+    url = ssh://sewan.gu@112.220.105.114//home/sewan.gu/dvc-data/darknet-yolo
